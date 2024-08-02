@@ -29,6 +29,7 @@ import soundon from "./soundon.png";
 import soundoff from "./soundoff.png";
 import whatsapp from "./whatsapp.svg";
 import gmail from "./gmail.svg";
+import hamburger from "./hamburger-menu.svg";
 
 export {
   css,
@@ -61,4 +62,5 @@ export {
   soundoff,
   whatsapp,
   gmail,
+  hamburger
 };
